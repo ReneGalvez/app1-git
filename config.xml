@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>  
 
-<widget xmlns = "http://www.w3.org/ns/widgets"
-   xmlns:gap = "http://phonegap.com/ns/1.0"
-   id = "com.phonegap.app1"
+<widget xmlns ="http://www.w3.org/ns/widgets"
+   xmlns:gap ="http://phonegap.com/ns/1.0"
+   id ="com.phonegap.app1"
    version ="1.0.0">
    
    <name>app1-2019 Datos del Dispositivo</name>
    
    <description>
-   Aplicaciones que nos muestra la informacion referente al Dispositivo Movil
+   Aplicaciones que nos muestra la informacion refereente al Dispositivo Movil
    </description>
    
-   <author href="https://build.phonegap.com" email="renesegundogalvez04@hotmail.com">
+   <author href="https://build.phonegap.com" email="reneeulogiogalvez@gmail.com">
    Eulogio Rene Galvez Segundo
    </author>
    
